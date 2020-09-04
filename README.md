@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! </h1>
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
-<p>Welcome to my page! </br> I'm Talha, software developer(mainly backend developer for now) from <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
+<p>Welcome to my page! </br> I'm Talha, software developer(mainly backend developer for now) and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> from <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
 <h3>Technologies I work with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-1a73e8?style=flat-square&logo=go&logoColor=white" />
@@ -27,12 +27,17 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-922121?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-C4996C?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=white" />
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia)](https://bit.ly/2DRJEXJ)
 
+<h3>Visitor Count</h3>
+[visitors](https://visitor-badge.glitch.me/badge?page_id=mrwormhole)
+
 <h3>Where to find me</h3>
-<p><a href="https://twitter.com/mr_wormhole" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/talha-altinel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.twitch.tv/mrwormhole" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%239147FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<p><a href="https://twitter.com/mr_wormhole" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/talha-altinel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.twitch.tv/mrwormhole" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%239147FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://discord.gg/EeRS3K" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%23738ADB.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 
