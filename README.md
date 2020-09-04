@@ -33,8 +33,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia)](https://bit.ly/2DRJEXJ)
 
-<h3>Visitor Count</h3>
-[visitors](https://visitor-badge.glitch.me/badge?page_id=mrwormhole)
+<h3>Visitor Count</h3> ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrwormhole.MrWormHole)
 
 <h3>Where to find me</h3>
 <p><a href="https://twitter.com/mr_wormhole" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/talha-altinel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.twitch.tv/mrwormhole" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%239147FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://discord.gg/EeRS3K" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%23738ADB.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
