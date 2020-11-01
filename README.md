@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! </h1>
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
-<p>Welcome to my page! </br> I'm Talha, software developer(mainly backend developer) and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
+<p>Welcome to my page! </br> I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
 <h3>Technologies I work with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-1a73e8?style=flat-square&logo=go&logoColor=white" />
