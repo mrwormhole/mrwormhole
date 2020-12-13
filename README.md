@@ -6,7 +6,7 @@
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-1a73e8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3475A8" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffc34c?style=flat-square&logo=python&logoColor=3776AA" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=FFD947" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-68BD45?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white" />  
