@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
 <h3>Technologies I work with (｡◕‿◕｡)</h3>
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-1a73e8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-EC2025?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffc34c?style=flat-square&logo=python&logoColor=3776AA" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=FFD947" />
@@ -21,13 +21,11 @@
   <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FD6C35?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-C4996C?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-00BFB3?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=10AA50" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
-  
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=white" />
 </p>
