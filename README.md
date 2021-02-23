@@ -15,11 +15,11 @@
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-F0F0F0?style=flat-square&logo=redux&logoColor=764ABC" />
 
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /> 
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-764ABC?style=flat-square&logo=apache&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FD6C35?style=flat-square&logo=postman&logoColor=white" />
