@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
 ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
-<p>Welcome to my page! </br> I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! i am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with huge grain of salt</p>
+<p>Welcome to my page! </br> I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt</p>
 <h3>Technologies I work with (｡◕‿◕｡)</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -37,6 +37,18 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
 
 <h3>Where to find me (° ͜ʖ͡°)</h3>
-<p><a href="https://twitter.com/mr_wormhole" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/talha-altinel/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-
-
+<p>
+  <a href="https://twitter.com/mr_wormhole" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/talha-altinel/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <br />
+  <a href="https://forum.golangbridge.org/u/mrwormhole/summary" target="_blank">
+    <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
+  </a>
+  <a href="https://discord.gg/qtAaswfAs9" target="_blank">
+    <img alt="Discord Gophers" src="https://cdn.discordapp.com/icons/118456055842734083/58e28cb37cb75fbda97b4bb5c3744d45.png" height="80" />
+  </a>
+</p>
