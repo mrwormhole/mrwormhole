@@ -18,8 +18,7 @@
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-000000?style=flat-square&logo=google-cloud&logoColor=EA4335" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /> 
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-764ABC?style=flat-square&logo=apache&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
