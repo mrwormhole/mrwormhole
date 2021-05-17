@@ -10,7 +10,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=FFD947" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-68BD45?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white" />  
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-F0F0F0?style=flat-square&logo=jquery&logoColor=0868AC" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-F0F0F0?style=flat-square&logo=redux&logoColor=764ABC" />
@@ -25,7 +25,6 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-F0F0F0?style=flat-square&logo=jenkins&logoColor=F53431" />
  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-00BFB3?style=flat-square&logo=elasticsearch&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-F0F0F0?style=flat-square&logo=mongodb&logoColor=10AA50" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
