@@ -7,6 +7,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffdd00?style=flat-square&logo=python&logoColor=3776AA" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=FFD947" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white" />  
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-F0F0F0?style=flat-square&logo=jquery&logoColor=0868AC" />
