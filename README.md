@@ -10,11 +10,9 @@
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-103E2E?style=flat-square&logo=django&logoColor=white" />  
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-F0F0F0?style=flat-square&logo=jquery&logoColor=0868AC" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-F0F0F0?style=flat-square&logo=nextdotjs&logoColor=000000" />
 
-  <img alt="GCP" src="https://img.shields.io/badge/-GCP-34A853?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
