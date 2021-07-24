@@ -1,7 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
-![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
-<p>Welcome to my page! </br> I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt</p>
+<details>
+  <summary>Click here to see my picture</summary>
+  
+  ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
+</details>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt. The mandatory <a href="https://golang.org/conduct" target="_blank">values</a> I live by in this lost world. </p>
+  
 <h3>Mostly I spend my time with (｡◕‿◕｡)</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -28,6 +34,11 @@
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
+  
+<h3> Some of my writings (👁 ͜ʖ👁) </h3>
+<p>
+  <a href="https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d" target="_blank"> Localstack with Terraform and Docker for running AWS locally </a>
+</p>
 
 <h3>Where to find me (° ͜ʖ͡°)</h3>
 <p>
