@@ -23,6 +23,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="OpenFaaS" src="https://img.shields.io/badge/-OpenFaaS-3B5EE9?style=flat-square&logo=openfaas&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitKraken" src="https://img.shields.io/badge/-GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
