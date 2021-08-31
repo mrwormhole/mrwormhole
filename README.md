@@ -31,7 +31,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=white" />
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
