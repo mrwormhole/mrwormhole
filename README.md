@@ -24,9 +24,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="OpenFaaS" src="https://img.shields.io/badge/-OpenFaaS-3B5EE9?style=flat-square&logo=openfaas&logoColor=white" />
+   <img alt="Minikube" src="https://img.shields.io/badge/-Minikube-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  
+  <img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
@@ -38,6 +40,10 @@
 <h3> Some of my writings (👁 ͜ʖ👁) </h3>
 <p>
   <a href="https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d" target="_blank"> Localstack with Terraform and Docker for running AWS locally </a>
+  <br/>
+  <a href="https://dev.to/mrwormhole/infra-part-1-serverless-highscore-go-api-with-faasd-and-cockroachdb-2e3g" target="_blank"> [INFRA PART 1/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
+  <br/>
+  <a href="https://dev.to/mrwormhole/dev-part-2-serverless-highscore-go-api-with-faasd-and-cockroachdb-16mb" target="_blank"> [DEV PART 2/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
 </p>
 
 <h3>Where to find me (° ͜ʖ͡°)</h3>
