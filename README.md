@@ -18,7 +18,6 @@
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-F0F0F0?style=flat-square&logo=nextdotjs&logoColor=000000&Color=FFFFFF" />
 
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="OpenFaaS" src="https://img.shields.io/badge/-OpenFaaS-3B5EE9?style=flat-square&logo=openfaas&logoColor=white" />
