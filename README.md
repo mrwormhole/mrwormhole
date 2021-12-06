@@ -42,6 +42,8 @@
   <a href="https://dev.to/mrwormhole/infra-part-1-serverless-highscore-go-api-with-faasd-and-cockroachdb-2e3g" target="_blank"> [INFRA PART 1/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
   <br/>
   <a href="https://dev.to/mrwormhole/dev-part-2-serverless-highscore-go-api-with-faasd-and-cockroachdb-16mb" target="_blank"> [DEV PART 2/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
+  <br/>
+  <a href="https://dev.to/mrwormhole/broke-captains-kubernetes-guidesuper-simple-convenient-1goo" target="_blank"> Broke Captain's Kubernetes Cluster Guide(super simple & convenient cost) </a>
 </p>
 
 <h3>Where to find me (° ͜ʖ͡°)</h3>
