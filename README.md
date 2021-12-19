@@ -11,7 +11,6 @@
 <h3>Mostly I spend my time with (｡◕‿◕｡)</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=FFD947" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" />  
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-F0F0F0?style=flat-square&logo=nextdotjs&logoColor=000000" />
