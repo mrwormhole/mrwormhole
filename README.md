@@ -6,7 +6,7 @@
   ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
 </details>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, full stack developer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt. The mandatory <a href="https://golang.org/conduct" target="_blank">values</a> I live by in this world. </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, software engineer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt. The mandatory <a href="https://golang.org/conduct" target="_blank">values</a> I live by in this world. </p>
   
 <h3>Mostly I spend my time with (｡◕‿◕｡)</h3>
 <p>
