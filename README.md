@@ -21,6 +21,8 @@
   <img alt="OpenFaaS" src="https://img.shields.io/badge/-OpenFaaS-3B5EE9?style=flat-square&logo=openfaas&logoColor=white" />
   <img alt="K3S" src="https://img.shields.io/badge/-K3S-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  
