@@ -45,7 +45,7 @@
   <a href="https://dev.to/mrwormhole/broke-captains-kubernetes-guidesuper-simple-convenient-1goo" target="_blank"> Broke Captain's Kubernetes Cluster Guide(super simple & convenient cost) </a>
 </p>
 
-<h3>Find me (° ͜ʖ͡°)</h3>
+<h3>Socials (° ͜ʖ͡°)</h3>
 <p>
   <a href="https://twitter.com/mr_wormhole" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
