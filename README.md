@@ -35,7 +35,7 @@
   
 <h3> Writings (👁 ͜ʖ👁) </h3>
 <p>
-  <a href="https://mrwormhole.gitlab.io/" target="_blank"> WormholeRelays </a>
+  <a href="https://wormholerelays.com/" target="_blank"> WormholeRelays </a>
 </p>
 
 <h3>Socials (° ͜ʖ͡°)</h3>
