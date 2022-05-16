@@ -35,13 +35,7 @@
   
 <h3> Writings (👁 ͜ʖ👁) </h3>
 <p>
-  <a href="https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d" target="_blank"> Localstack with Terraform and Docker for running AWS locally </a>
-  <br/>
-  <a href="https://dev.to/mrwormhole/infra-part-1-serverless-highscore-go-api-with-faasd-and-cockroachdb-2e3g" target="_blank"> [INFRA PART 1/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
-  <br/>
-  <a href="https://dev.to/mrwormhole/dev-part-2-serverless-highscore-go-api-with-faasd-and-cockroachdb-16mb" target="_blank"> [DEV PART 2/2] Serverless Highscore Go API with Faasd and CockroachDB </a>
-  <br/>
-  <a href="https://dev.to/mrwormhole/broke-captains-kubernetes-guidesuper-simple-convenient-1goo" target="_blank"> Broke Captain's Kubernetes Cluster Guide(super simple & convenient cost) </a>
+  <a href="https://mrwormhole.gitlab.io/" target="_blank"> WormholeRelays </a>
 </p>
 
 <h3>Socials (° ͜ʖ͡°)</h3>
