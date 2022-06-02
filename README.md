@@ -6,32 +6,41 @@
   ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
 </details>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, software engineer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. Be aware! I am a strong addict of <a href="https://golang.org" target="_blank">GO <a/> when it comes to commenting on programming languages, please take things with a huge grain of salt. The mandatory <a href="https://golang.org/conduct" target="_blank">values</a> I live by in this world. </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, software engineer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. Be aware! I am a little fanatic of <a href="https://go.dev" target="_blank">GO <a/> and there are many reasons behind that. The <a href="https://golang.org/conduct" target="_blank">values</a> I live by. </p>
   
 <h3>Areas of Focus (｡◕‿◕｡)</h3>
 <p>
+  <!-- core languages used 7/24 -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
+  <!-- frontend tooling -->
   <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
-
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  
+  <!-- infrastructure -->
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
   <img alt="K3S" src="https://img.shields.io/badge/-K3S-FFC61C?style=flat-square&logo=k3s&logoColor=black" />
+  <img alt="OpenFaaS" src="https://img.shields.io/badge/-OpenFaaS-3B5EE9?style=flat-square&logo=openfaas&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  
+  <!-- git gud -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-F0F0F0?style=flat-square&logo=gitlab&logoColor=white" />
   
+  <!-- storage -->
   <img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
+  
+  <!-- hobby -->
+  <img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
 </p>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrwormhole&show_icons=true&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
   
 <h3> Writings (👁 ͜ʖ👁) </h3>
 <p>
