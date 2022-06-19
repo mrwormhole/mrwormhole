@@ -1,9 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
 <details>
-  <summary>Click here to see my picture</summary>
+  <summary> Click here to see my Maslow's hierarchy of needs</summary>  
   
-  ![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif)
+  ![maslow-gopher](https://user-images.githubusercontent.com/22800416/174462164-cdac351f-6e39-4426-b360-bd73a9921c56.png)
 </details>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, software engineer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. Be aware! I am a little fanatic of <a href="https://go.dev" target="_blank">GO <a/> and there are many reasons behind that. The <a href="https://golang.org/conduct" target="_blank">values</a> I live by. </p>
@@ -12,7 +12,8 @@
 <p>
   <!-- core languages used 7/24 -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  
   <!-- frontend tooling -->
   <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
