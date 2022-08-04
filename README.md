@@ -1,6 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! ʕ •`ᴥ•´ʔ</h1>
 
 <details>
+  <summary> Click here to see my biased immutable opinion</summary>  
+  
+  ![penguin-loves-go](https://user-images.githubusercontent.com/22800416/182830319-e212b2e4-9551-4ccc-9aae-3575eaa8bff8.png)
+</details>
+<details>
   <summary> Click here to see my Maslow's hierarchy of needs</summary>  
   
   ![maslow-gopher](https://user-images.githubusercontent.com/22800416/174462164-cdac351f-6e39-4426-b360-bd73a9921c56.png)
