@@ -29,7 +29,8 @@
   <!-- git gud -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-F0F0F0?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+  <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-0F0F0F?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-F0F0F0?style=flat-square&logo=argo&logoColor=FC6D26" />
   
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
