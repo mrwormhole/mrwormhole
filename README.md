@@ -15,15 +15,14 @@
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-pink?style=flat-square&logo=gnubash&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="K3S" src="https://img.shields.io/badge/-K3s-326CE5?style=flat-square&logo=k3s&logoColor=white" />
+  <img alt="K3S" src="https://img.shields.io/badge/-K3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana+Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-0F0F0F?style=flat-square&logo=gitlab&logoColor=FC6D26" />
-  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-F0F0F0?style=flat-square&logo=argo&logoColor=FC6D26" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
