@@ -10,9 +10,16 @@
   
 <h3>Areas of Focus </h3>
 <p>
+  <!-- Preferred Languages -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Sveltekit" src="https://img.shields.io/badge/-Sveltekit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  
+  <!-- Preferred Frontend -->
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
+  <img alt="Sveltekit" src="https://img.shields.io/badge/-Sveltekit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  
+  <!-- Preferred Infrastructure -->
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-pink?style=flat-square&logo=gnubash&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="K3S" src="https://img.shields.io/badge/-K3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -22,10 +29,17 @@
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana+Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-0F0F0F?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+  <!-- waiting for cert-manager, fluxCD, longhorn -->
+  
+  <!-- Preferred Stores & Pubsub -->
+  <img alt="Minio" src="https://img.shields.io/badge/-Minio-C62C48?style=flat-square&logo=amazons3&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="NATS" src="https://img.shields.io/badge/-NATS.io-37A777?style=flat-square&logo=amazonsqs&logoColor=white" />
+  
+  <!-- Hobby Game Engine -->
+  <img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />  
 </p>
   
 <h3> Writings </h3>
