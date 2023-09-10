@@ -28,14 +28,14 @@
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana+Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <!-- waiting for cert-manager, fluxCD, longhorn -->
+  <img alt="FluxCD" src="https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
   
   <!-- Preferred Stores & Pubsub -->
   <img alt="Minio" src="https://img.shields.io/badge/-Minio-C62C48?style=flat-square&logo=amazons3&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="NATS" src="https://img.shields.io/badge/-NATS.io-37A777?style=flat-square&logo=amazonsqs&logoColor=white" />
+  <img alt="NATS" src="https://img.shields.io/badge/-NATS.io-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
   
   <!-- Hobby -->
   <img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />  
