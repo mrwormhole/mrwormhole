@@ -31,7 +31,6 @@
   <img alt="FluxCD" src="https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
   
   <!-- Preferred Stores & Pubsub -->
-  <img alt="Ceph" src="https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
