@@ -22,7 +22,7 @@
   <!-- Preferred Infrastructure -->
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-pink?style=flat-square&logo=gnubash&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="K3S" src="https://img.shields.io/badge/-K3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
@@ -31,14 +31,10 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="FluxCD" src="https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
   
-  <!-- Preferred Stores & Pubsub -->
+  <!-- Preferred Store & Cache & Pubsub -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white" />
   <img alt="NATS" src="https://img.shields.io/badge/-NATS.io-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
-  
-  <!-- Hobby -->
-  <img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" />  
 </p>
   
 <h3> Writings </h3>
