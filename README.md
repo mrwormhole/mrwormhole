@@ -6,7 +6,7 @@
   ![maslow-gopher](https://user-images.githubusercontent.com/22800416/174462164-cdac351f-6e39-4426-b360-bd73a9921c56.png)
 </details>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, software engineer and founder of <a href="https://www.goldenhandsoftware.co.uk/" target="_blank">Goldenhand Software<a/> in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB%402x.png?raw=true' width='21' height='15'> <b>London, UK</b>. I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, I like to be trilingual boring guy. I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
   
 <h3>Areas of Focus </h3>
 <p>
