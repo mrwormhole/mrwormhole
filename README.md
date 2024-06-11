@@ -13,7 +13,6 @@
   <!-- Preferred Languages -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Ts-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white" />
   
   <!-- Preferred Frontend -->
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
