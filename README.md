@@ -19,7 +19,6 @@
   <img alt="Sveltekit" src="https://img.shields.io/badge/-Sveltekit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   
   <!-- Preferred Infrastructure -->
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-pink?style=flat-square&logo=gnubash&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Containers" src="https://img.shields.io/badge/-Containers-262261?style=flat-square&logo=opencontainersinitiative" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
