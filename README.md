@@ -12,8 +12,6 @@
 <p>
   <!-- Preferred Languages -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Ts-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Zig" src="https://img.shields.io/badge/-Zig-F48C00?style=flat-square&logo=zig&logoColor=white" />
   
   <!-- Preferred Frontend -->
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
@@ -44,8 +42,5 @@
 <p>
   <a href="https://forum.golangbridge.org/u/mrwormhole/summary" target="_blank">
     <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
-  </a>
-  <a href="https://ziggit.dev/u/mrwormhole/summary" target="_blank">
-    <img alt="Ziggit" src="https://ziggit.dev/uploads/default/original/2X/a/a65087dbc73e8fc2751c8ff1eebb91d0922b6b27.png" height="80" />
   </a>
 </p>
