@@ -8,27 +8,28 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, dedicated trilingual, I like different writing systems of the world. I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
   
-<h3>Areas of Focus </h3>
+<h3> Tech </h3>
 <p>
-  <!-- Preferred Languages -->
+  <!-- Preferred Language -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   
   <!-- Preferred Frontend -->
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white" />
-  <img alt="Sveltekit" src="https://img.shields.io/badge/-Sveltekit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
 
   <!-- Preferred Infrastructure -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prom-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-LGT-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="FluxCD" src="https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Flux" src="https://img.shields.io/badge/-Flux-5468FF?style=flat-square&logo=flux&logoColor=white" />
   
   <!-- Preferred Store & Pubsub -->
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="NATS" src="https://img.shields.io/badge/-NATS.io-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="NATS" src="https://img.shields.io/badge/-NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
 </p>
   
 <h3> Blog </h3>
