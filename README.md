@@ -17,7 +17,7 @@
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
 
   <!-- Preferred Infrastructure -->
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E6E6E6?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
