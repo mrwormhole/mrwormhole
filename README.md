@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514331/3037/gopher_coffee.gif?1643514331" width="30"/> Hello there! </h1>
+<h1><img src="https://wormholerelays.com/gopherbounce.gif" width="48"/> Greetings, traveler! </h1>
 
 <details>
   <summary> Maslow's hierarchy of needs</summary>
