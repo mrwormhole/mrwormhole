@@ -12,6 +12,8 @@
 <p>
   <!-- Preferred Language -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <!-- Preferred Glue -->
+  <img alt="Python" src="https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white" />
   
   <!-- Preferred Frontend -->
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
