@@ -1,4 +1,4 @@
-<h1><img src="https://wormholerelays.com/gopherbounce.gif" width="48"/> Greetings, traveler! </h1>
+<h1><img src="https://wormholerelays.com/gopherbounce.gif" width="48"/> Greetings, traveller! </h1>
 
 <details>
   <summary> Maslow's hierarchy of needs</summary>
@@ -38,7 +38,7 @@
   <a href="https://wormholerelays.com/" target="_blank"> WormholeRelays </a>
 </p>
 
-<h3>Forums </h3>
+<h3> Forum </h3>
 <p>
   <a href="https://forum.golangbridge.org/u/mrwormhole/summary" target="_blank">
     <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="80" />
