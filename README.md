@@ -16,7 +16,6 @@
 
   <!-- Preferred Meta Frameworks -->
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Sveltekit" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
 
   <!-- Preferred Infrastructure -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E6E6E6?style=flat-square&logo=linux&logoColor=black" />
