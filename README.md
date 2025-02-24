@@ -16,20 +16,20 @@
 
   <!-- Preferred Meta Frameworks -->
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-23262F?style=flat-square&logo=astro&logoColor=white" />
 
   <!-- Preferred Infrastructure -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-E6E6E6?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prom-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-LGT-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="FluxCD" src="https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   
   <!-- Preferred Store & Pubsub -->
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="NATS" src="https://img.shields.io/badge/-NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
 </p>
   
