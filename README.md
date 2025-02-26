@@ -1,14 +1,14 @@
 <h1><img src="https://wormholerelays.com/gopherbounce.gif" width="48"/> Greetings, traveller! </h1>
 
 <details>
-  <summary> Maslow's hierarchy of needs</summary>
+  <summary> Maslow's hierarchy of Gopher needs</summary>
   
   ![maslow-gopher](https://user-images.githubusercontent.com/22800416/174462164-cdac351f-6e39-4426-b360-bd73a9921c56.png)
 </details>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, dedicated trilingual, I like different writing systems of the world. I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, Software Witcher (contractor). I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
   
-<h3> Tech </h3>
+<h3> Focus </h3>
 <p>
   <!-- Preferred Languages -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
