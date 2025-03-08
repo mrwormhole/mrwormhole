@@ -6,7 +6,7 @@
   ![maslow-gopher](https://user-images.githubusercontent.com/22800416/174462164-cdac351f-6e39-4426-b360-bd73a9921c56.png)
 </details>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha, Software Witcher (contractor). I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; I'm Talha. I follow these <a href="https://golang.org/conduct" target="_blank">values</a>.</p>
   
 <h3> Focus </h3>
 <p>
