@@ -7,7 +7,8 @@
   <!-- Preferred Languages -->
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PgSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-Ts-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 
   <!-- Preferred Frameworks -->
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -18,8 +19,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="K8s" src="https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prom-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Gh_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="FluxCD" src="https://img.shields.io/badge/-Flux-5468FF?style=flat-square&logo=flux&logoColor=white" />
 </p>
   
