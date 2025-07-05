@@ -13,4 +13,4 @@ I'm Talha. I follow these [values](https://golang.org/conduct). Is 2025 the year
 
 ### Forum
 
-[![Go Bridge](https://github.com/user-attachments/assets/75a5e50a-917c-4b79-8440-e3e242cdabf9)](https://forum.golangbridge.org/u/mrwormhole/summary)
+[![Go Bridge](https://wormholerelays.com/gobridge.jpg)](https://forum.golangbridge.org/u/mrwormhole/summary)
