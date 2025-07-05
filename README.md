@@ -11,9 +11,6 @@ I'm Talha. I follow these [values](https://golang.org/conduct). Is 2025 the year
 ![Typescript](https://img.shields.io/badge/Ts-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rs-000000?style=flat-square&logo=rust&logoColor=white)
 
-<h3> Forum </h3>
-<p>
-  <a href="https://forum.golangbridge.org/u/mrwormhole/summary" target="_blank">
-    <img alt="Go Bridge" src="https://pbs.twimg.com/profile_images/1100533079796600833/s5Krj_8A_400x400.jpg" height="64" />
-  </a>
-</p>
+### Forum
+
+[![Go Bridge](https://github.com/user-attachments/assets/75a5e50a-917c-4b79-8440-e3e242cdabf9)](https://forum.golangbridge.org/u/mrwormhole/summary)
