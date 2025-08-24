@@ -3,7 +3,3 @@
 I'm Talha. I follow these [values](https://golang.org/conduct). Is 2025 the year of 🐧 desktop? check your hardware [here](https://linux-hardware.org).
 
 [![Blog](https://img.shields.io/badge/Blog-wormholerelays.com-white?logo=hugo)](https://wormholerelays.com)
-
-### Forum
-
-[![Go Bridge](https://wormholerelays.com/gobridge.jpg)](https://forum.golangbridge.org/u/mrwormhole/summary)
